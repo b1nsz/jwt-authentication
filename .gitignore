@@ -1,0 +1,25 @@
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask
+instance/
+*.db
+uploads/
+
+# Logs
+logs/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Virtual environment
+venv/
+
